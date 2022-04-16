@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "209Zb5EYB6z32u02qWgucQq2Wqt7APpdEJXkSpq+ZCGhQlSXB2OzyL3y2wSEjColyoBwwoUWhtqg7BmMTn+Tlg==",
+  "success": true,
+  "projectFilePath": "E:\\antmo\\Documents\\CsharpEjercicios\\ConsumerDemo\\ConsumerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antmo\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\antmo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\antmo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

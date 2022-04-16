@@ -1,0 +1,17 @@
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\ConsumerDemo.exe
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\ConsumerDemo.deps.json
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\ConsumerDemo.runtimeconfig.json
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\ConsumerDemo.dll
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\ConsumerDemo.pdb
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.csproj.AssemblyReference.cache
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.AssemblyInfoInputs.cache
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.AssemblyInfo.cs
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.csproj.CoreCompileInputs.cache
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.csproj.CopyComplete
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.dll
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\refint\ConsumerDemo.dll
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.pdb
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ConsumerDemo.genruntimeconfig.cache
+E:\antmo\Documents\CsharpEjercicios\ConsumerDemo\obj\Debug\net6.0\ref\ConsumerDemo.dll
